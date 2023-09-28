@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Concepts.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Concepts.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Concepts.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,16 +138,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Concepts.md"
+                "file": "Index.md"
               }
             }
+          },
+          {
+            "id": "6b4ce4eff478455c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,10 +169,10 @@
   },
   "active": "e30dbe73a41f51b1",
   "lastOpenFiles": [
+    "Programming Concepts/Programming Concepts.md",
+    "Exercises/Exercises.md",
     "Index.md",
     "Templates/Basic MOC Template.md",
-    "Exercises.md",
-    "Programming Concepts.md",
     "Exercises",
     "Programming Concepts",
     "Templates"
