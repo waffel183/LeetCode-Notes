@@ -3,3 +3,4 @@ links: [[Index]]
 
 ---
 # Programming Concepts 
+[[Binary Tree]]
